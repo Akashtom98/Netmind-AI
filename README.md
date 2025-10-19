@@ -104,18 +104,6 @@ Visit **http://localhost:5173** (or as displayed) to explore the dashboard.
 
 ---
 
-## 👨‍💻 Developer
-
-**Akash Tomar**  
-Network Security Engineer → Generative AI Scientist in the making 🌐  
-- 💼 [LinkedIn](https://linkedin.com/in/akash-tomar)  
-- 💻 [GitHub](https://github.com/akash-tomar)  
-- 🌐 [Portfolio](#)  
-
-> “Building the bridge between network security and generative AI.”
-
----
-
 ## 🧩 License
 
 This project is open-source and available under the **MIT License**.
